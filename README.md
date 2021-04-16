@@ -10,4 +10,5 @@
 - Ask me about anything! I am sure together we can figure it out 💬 
 - Reach me via e-mail, LinkedIn, Twitter or any other platform 📫
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p-rutkowski&show_icons=true&locale=en" alt="akash-chowrasia" width="410" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=p-rutkowskim&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
