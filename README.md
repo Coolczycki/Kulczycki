@@ -9,3 +9,5 @@
 - Always looking up to connect with new peers 🍐
 - Ask me about anything! I am sure together we can figure it out 💬 
 - Reach me via e-mail, LinkedIn, Twitter or any other platform 📫
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
