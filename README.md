@@ -7,7 +7,6 @@
 - Aspiring Full Stack Developer 😎
 - In love with learning and searching new opportunites 💖
 - Always looking up to connect with new peers 🍐
-- Ask me about anything! I am sure together we can figure it out 💬 
 - Reach me via e-mail, LinkedIn, Twitter or any other platform 📫
 <hr>
 
